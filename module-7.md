@@ -19,7 +19,7 @@ Inputs
 
 - Pricing assumptions – Product or service prices used to calculate revenues.
 
--------------------------------------------------
+---
 
 Core Calculations
 
@@ -31,7 +31,7 @@ Core Calculations
 - Payback period – Time required to recover initial investment.
 - Cash flow over 3–5 years – Predicted money inflows and outflows for financial planning.
 
--------------------------------------------------
+---
 
 Outputs
 
@@ -41,7 +41,7 @@ Outputs
 - Executive summary of costs, revenues, and ROI – Quick reference for management.
 - Pitch deck with key financial insights – Ready-to-use presentation for stakeholders.
 
--------------------------------------------------
+---
 
 Usage / Integration
 

@@ -7,7 +7,7 @@ Inputs
 - Labor cost: Wages and related expenses for operators, technicians, and supervisors running or maintaining the machine.
 - Machine lifetime: Expected operational lifespan (years) used to spread costs over time.
 
--------------------------------------------------
+---
 
 Calculations
 
@@ -15,7 +15,7 @@ Calculations
 - Cost per unit: Cost of producing one unit based on total operating expenses and production volume.
 - Total lifetime cost (TCO): Complete cost of owning and operating the machine over its entire expected life.
 
--------------------------------------------------
+---
 
 Outputs
 
